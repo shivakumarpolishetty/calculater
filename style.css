@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    
+}
+body{
+    background-color:antiquewhite;
+}
+.a {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    transform: translateX(450px);
+}
+form{
+    margin-top:50px;
+}
+input {
+    width: 100px;
+    height: 70px;
+    background-color:white;
+    border-radius: 3px;
+    margin: 3px;
+}
+.answer{
+    width:231px;
+}
+
+answer{
+    font-size:40px;
+}
